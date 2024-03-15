@@ -1,0 +1,1 @@
+CALL copy_data_with_loop('source_table', 'destination_table');
